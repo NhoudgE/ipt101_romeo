@@ -1,2 +1,3 @@
-# ipt101_romeo
-This is how i edit readme file :)
+# Romeo's Project 
+For Educational Purposes only.
+
