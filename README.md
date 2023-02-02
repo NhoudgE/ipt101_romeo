@@ -1,6 +1,6 @@
 # Romeo's Project 
 For Educational Purposes only.
 ## Authors
-[NhoudgE](https://github.com/NhoudgE/ipt101_romeo.git)
+(https://github.com/NhoudgE/ipt101_romeo.git)
 ## Sample Code
-printf("Hello World!");
+'printf("Hello World!");'
