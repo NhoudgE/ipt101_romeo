@@ -7,3 +7,4 @@ For Educational Purposes only.
 # ipt101_romeo
 ## How to Install
 ## Hot to Install
++ Step 1:Download the zip file or use git clone
