@@ -5,4 +5,3 @@ For Educational Purposes only.
 ## Sample Code
 `printf("Hello World!");`
 ## Hot to Install
-+ Step 1:Download the zip file or use git clone
