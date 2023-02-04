@@ -12,3 +12,4 @@ For Educational Purposes only.
 + Step 1:Download the zip file or use git clone
 =======
 >>>>>>> a721474d0c525806e1d5dd258dec4211a8aff678
++ Step 1: Download the zip file or use git clone.
