@@ -6,4 +6,3 @@ For Educational Purposes only.
 `printf("Hello World!");`
 # ipt101_romeo
 ## How to Install
-## Hot to Install
