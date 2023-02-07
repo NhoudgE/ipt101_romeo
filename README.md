@@ -10,3 +10,4 @@ For Educational Purposes only.
 - Step 1: Add new commits. Add any changes and commit message that you want.
 - Step 2: Revert the latest commit.
 - Step 3: Add another 2 new commits.
+- Step 4: Reset to the previous commit.
