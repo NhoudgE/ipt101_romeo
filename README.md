@@ -8,3 +8,4 @@ For Educational Purposes only.
 + Step 1: Download the zip file or use git clone.
 ## Undoing git Changes
 - Step 1: Add 2 new commits. Add any changes and commit message that you want.
+- Revert the latest commit.
