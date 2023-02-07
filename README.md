@@ -8,3 +8,4 @@ For Educational Purposes only.
 + Step 1: Download the zip file or use git clone.
 ## How to Revert and Reset Commits
 - Step 1: Add new commits. Add any changes and commit message that you want.
+- Step 2: Revert the latest commit.
